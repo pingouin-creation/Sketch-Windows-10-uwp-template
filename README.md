@@ -1,4 +1,4 @@
-# Sketch template file for create a uwp application assets
+# Sketch template file to create all assets of a uwp application
 
 ## Requirements
 - Sketch version 49+
@@ -7,7 +7,7 @@
 
 ## How to use it
 
-1. Fork / clone the repository or download the file 
+1. Fork / clone the repository or [download the file](https://github.com/pingouin-creation/Sketch-Windows-10-uwp-template/raw/master/Windows%20uwp%20asset.sketch)
 2. Import your logo in the logo page
 3. Resize it in the different artboards
 4. Be sure to not expand from the pink rectangle
